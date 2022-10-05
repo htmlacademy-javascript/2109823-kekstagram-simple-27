@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Rus Minin](https://up.htmlacademy.ru/javascript/27/user/2109823).
-* Наставник: `Ruslan Breev`.
+* Наставник: [Ruslan Breev](https://htmlacademy.ru/profile/blckwltz)
 
 ---
 
