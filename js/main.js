@@ -15,3 +15,7 @@ function truncate(str, maxlength) {
 }
 
 //https://learn.javascript.ru/task/truncate
+
+getRandomIntInclusive(1, 0);
+truncate('', 140);
+
